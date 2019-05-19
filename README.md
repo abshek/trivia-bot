@@ -6,7 +6,7 @@ Create a file ".env" at root level, and define the following environment variabl
 - token - Received from BotFather
 - port - For server to listen on
 
-# Read to go
+# Ready to go
 - Start the server using "node server.js" command.
 - Expose the port via a HTTPS URL
 - Set Telegram webhook for this URL
