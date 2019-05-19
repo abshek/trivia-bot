@@ -1,5 +1,6 @@
 # Trivia bot
 Server for a Telegram chat bot that responds with trivia related to a number it receives.
+It utilizes numbersapi.com to fetch trivia
 
 # Environment variables
 Create a file ".env" at root level, and define the following environment variables:
